@@ -1,0 +1,39 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/wangyang/AndroidStudioProjects/ihaojie_901/matisse/src/main/AndroidManifest.xml:17:1-26:12
+INJECTED from /Users/wangyang/AndroidStudioProjects/ihaojie_901/matisse/src/main/AndroidManifest.xml:17:1-26:12
+INJECTED from /Users/wangyang/AndroidStudioProjects/ihaojie_901/matisse/src/main/AndroidManifest.xml:17:1-26:12
+	package
+		ADDED from /Users/wangyang/AndroidStudioProjects/ihaojie_901/matisse/src/main/AndroidManifest.xml:19:9-36
+		INJECTED from /Users/wangyang/AndroidStudioProjects/ihaojie_901/matisse/src/main/AndroidManifest.xml
+		INJECTED from /Users/wangyang/AndroidStudioProjects/ihaojie_901/matisse/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/wangyang/AndroidStudioProjects/ihaojie_901/matisse/src/main/AndroidManifest.xml:18:9-67
+application
+ADDED from /Users/wangyang/AndroidStudioProjects/ihaojie_901/matisse/src/main/AndroidManifest.xml:21:5-25:19
+activity#com.zhihu.matisse.ui.MatisseActivity
+ADDED from /Users/wangyang/AndroidStudioProjects/ihaojie_901/matisse/src/main/AndroidManifest.xml:22:9-72
+	android:name
+		ADDED from /Users/wangyang/AndroidStudioProjects/ihaojie_901/matisse/src/main/AndroidManifest.xml:22:19-70
+activity#com.zhihu.matisse.internal.ui.AlbumPreviewActivity
+ADDED from /Users/wangyang/AndroidStudioProjects/ihaojie_901/matisse/src/main/AndroidManifest.xml:23:9-86
+	android:name
+		ADDED from /Users/wangyang/AndroidStudioProjects/ihaojie_901/matisse/src/main/AndroidManifest.xml:23:19-84
+activity#com.zhihu.matisse.internal.ui.SelectedPreviewActivity
+ADDED from /Users/wangyang/AndroidStudioProjects/ihaojie_901/matisse/src/main/AndroidManifest.xml:24:9-89
+	android:name
+		ADDED from /Users/wangyang/AndroidStudioProjects/ihaojie_901/matisse/src/main/AndroidManifest.xml:24:19-87
+uses-sdk
+INJECTED from /Users/wangyang/AndroidStudioProjects/ihaojie_901/matisse/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/wangyang/AndroidStudioProjects/ihaojie_901/matisse/src/main/AndroidManifest.xml
+INJECTED from /Users/wangyang/AndroidStudioProjects/ihaojie_901/matisse/src/main/AndroidManifest.xml
+INJECTED from /Users/wangyang/AndroidStudioProjects/ihaojie_901/matisse/src/main/AndroidManifest.xml
+INJECTED from /Users/wangyang/AndroidStudioProjects/ihaojie_901/matisse/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/wangyang/AndroidStudioProjects/ihaojie_901/matisse/src/main/AndroidManifest.xml
+		ADDED from /Users/wangyang/AndroidStudioProjects/ihaojie_901/matisse/src/main/AndroidManifest.xml
+		INJECTED from /Users/wangyang/AndroidStudioProjects/ihaojie_901/matisse/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/wangyang/AndroidStudioProjects/ihaojie_901/matisse/src/main/AndroidManifest.xml
+		ADDED from /Users/wangyang/AndroidStudioProjects/ihaojie_901/matisse/src/main/AndroidManifest.xml
+		INJECTED from /Users/wangyang/AndroidStudioProjects/ihaojie_901/matisse/src/main/AndroidManifest.xml

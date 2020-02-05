@@ -1,0 +1,2 @@
+include ':app', ':library', ':matisse'
+rootProject.name='avatar'
